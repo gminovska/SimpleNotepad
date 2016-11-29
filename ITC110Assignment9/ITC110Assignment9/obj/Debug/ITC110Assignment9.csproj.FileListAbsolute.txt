@@ -1,0 +1,14 @@
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\bin\Debug\ITC110Assignment9.exe.config
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\bin\Debug\ITC110Assignment9.exe
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\bin\Debug\ITC110Assignment9.pdb
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9.csprojResolveAssemblyReference.cache
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\MainWindow.g.cs
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\App.g.cs
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9_MarkupCompile.cache
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9_MarkupCompile.lref
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\MainWindow.baml
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9.g.resources
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9.Properties.Resources.resources
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9.csproj.GenerateResource.Cache
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9.exe
+c:\users\ekogoca\documents\visual studio 2015\Projects\ITC110Assignment9\ITC110Assignment9\obj\Debug\ITC110Assignment9.pdb
